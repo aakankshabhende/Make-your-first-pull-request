@@ -6,3 +6,4 @@
 * Rishi Kumar Tiwari
 * Saranya Priya Palakurthi
 * Akshansh Shrivastava
+* Kushal Karan
