@@ -10,3 +10,4 @@
 Abhishek Kolvekar
 * Afreena Begum
 * Harshit Bansal
+* Pratik Gupta
