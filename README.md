@@ -1,6 +1,7 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 # Make your first Pull Request!
+<br>
 A repository to help you start your open source journey! 💫 <br>
 Add your name in the <b>Contributors.md</b> file to make your first pull request 🚀
 
