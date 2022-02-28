@@ -7,8 +7,9 @@
 * Saranya Priya Palakurthi
 * Akshansh Shrivastava
 * Kushal Karan
-Abhishek Kolvekar
+* Abhishek Kolvekar
 * Afreena Begum
 * Harshit Bansal
 * Pratik Gupta
 * Shubham Singh 
+* Bhavya Parikh
