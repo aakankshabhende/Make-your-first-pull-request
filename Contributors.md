@@ -18,7 +18,7 @@
 * KALASH SINGHAL
 * kalash singhal
 * Pratik Priyansh
-
+* Sukriti Maurya
 
 * Udayan Chatterjee
 
