@@ -22,3 +22,5 @@
 * Shivam Singh
 * Udayan Chatterjee
 * Anurag Kumar Singh
+* Ritika Khanduri
+
