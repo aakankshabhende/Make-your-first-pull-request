@@ -30,3 +30,4 @@
 * Purvaja Durga
 * Abhishek Jaiswal
 * Kendall
+* Vedant Parekh
