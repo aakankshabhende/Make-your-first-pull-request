@@ -32,3 +32,6 @@
 * Kendall
 * Vedant Parekh
 * Peter Samuel Edidiong
+* Marcos Ludgério
+
+
