@@ -31,3 +31,4 @@
 * Abhishek Jaiswal
 * Kendall
 * Vedant Parekh
+* CoyaG
