@@ -32,6 +32,7 @@
 * Kendall
 * Vedant Parekh
 * CoyaG
+* Alexander
 
 * Peter Samuel Edidiong
 * Marcos Ludgério
