@@ -32,7 +32,7 @@
 * Kendall
 * Vedant Parekh
 * CoyaG
-
+* Luv Agarwal
 * Peter Samuel Edidiong
 * Marcos Ludgério
 
