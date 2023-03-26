@@ -32,9 +32,7 @@
 * Kendall
 * Vedant Parekh
 * CoyaG
-* Rhys Tumelty
-
 * Peter Samuel Edidiong
 * Marcos Ludgério
-
+* Rhys Tumelty
 
