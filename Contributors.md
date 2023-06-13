@@ -35,5 +35,6 @@
 
 * Peter Samuel Edidiong
 * Marcos Ludgério
+* Nerdy Gedoni
 
 
