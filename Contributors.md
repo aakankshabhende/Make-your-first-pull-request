@@ -1,4 +1,5 @@
 # Contributors
+* Manik
 * Akrati Pal
 * Gurjeet Singh Virdee
 * Rohan Chatterjee
@@ -32,7 +33,6 @@
 * Kendall
 * Vedant Parekh
 * CoyaG
-
 * Peter Samuel Edidiong
 * Marcos Ludgério
 
