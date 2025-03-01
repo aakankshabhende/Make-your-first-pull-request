@@ -1,4 +1,10 @@
-# Contributors
+![OpenSource-Banner](https://github.com/user-attachments/assets/32c7712f-f85c-4091-b9ed-0e314c06a754)
+
+
+---
+
+## A list of 2022 contributors 🌟
+
 * Akrati Pal
 * Gurjeet Singh Virdee
 * Rohan Chatterjee
